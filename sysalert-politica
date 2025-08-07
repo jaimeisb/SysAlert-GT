@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Política de Privacidad - SysAlert GT</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1, h2 {
+      color: #c0392b;
+    }
+  </style>
+</head>
+<body>
+  <h1>Política de Privacidad</h1>
+  <p>Última actualización: [Agrega fecha]</p>
+
+  <p>Gracias por utilizar <strong>SysAlert GT</strong>. Esta aplicación está diseñada para proporcionar alertas viales en tiempo real en Guatemala, ayudando a los conductores a tomar decisiones más seguras en carretera.</p>
+
+  <h2>1. Información que recopilamos</h2>
+  <p>La aplicación puede recopilar y utilizar la siguiente información:</p>
+  <ul>
+    <li>Ubicación en tiempo real del usuario para brindar alertas viales relevantes.</li>
+    <li>Datos del dispositivo (versión del sistema operativo, tipo de dispositivo).</li>
+    <li>Reportes de incidentes viales ingresados voluntariamente por el usuario.</li>
+  </ul>
+
+  <h2>2. Uso de la información</h2>
+  <p>La información recopilada se utiliza únicamente para:</p>
+  <ul>
+    <li>Mostrar alertas viales cercanas.</li>
+    <li>Mejorar el funcionamiento de la aplicación.</li>
+    <li>Permitir el reporte y visualización de incidentes.</li>
+  </ul>
+
+  <h2>3. Compartir información</h2>
+  <p>No compartimos tu información personal con terceros. Solo se almacenan y muestran públicamente los datos necesarios para el funcionamiento del sistema de alertas.</p>
+
+  <h2>4. Seguridad</h2>
+  <p>Implementamos medidas de seguridad para proteger la información del usuario. Sin embargo, ningún método de transmisión o almacenamiento electrónico es 100% seguro.</p>
+
+  <h2>5. Permisos</h2>
+  <p>SysAlert GT requiere acceso a la ubicación del dispositivo en segundo plano para notificar al usuario sobre incidentes viales mientras se encuentra en tránsito.</p>
+
+  <h2>6. Derechos del usuario</h2>
+  <p>El usuario puede revocar los permisos de ubicación en cualquier momento desde la configuración del dispositivo.</p>
+
+  <h2>7. Cambios en esta política</h2>
+  <p>Nos reservamos el derecho de actualizar esta política en cualquier momento. Los cambios serán reflejados en esta misma página.</p>
+
+  <h2>8. Contacto</h2>
+  <p>Si tienes preguntas sobre esta política de privacidad, puedes contactarnos al correo: <a href="mailto:sysalertgt@gmail.com">sysalertgt@gmail.com</a></p>
+
+  <p><em>Esta política se aplica exclusivamente al uso de la aplicación SysAlert GT.</em></p>
+</body>
+</html>
